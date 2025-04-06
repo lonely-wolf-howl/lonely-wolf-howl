@@ -25,7 +25,7 @@
 -->
 
 # languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lonely-wolf-howl&theme=tokyonight&hide=html,ejs,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lonely-wolf-howl&theme=tokyonight&hide=html,ejs,css,c++)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
