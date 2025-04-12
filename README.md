@@ -25,7 +25,7 @@
 -->
 
 # languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lonely-wolf-howl&theme=tokyonight&hide=html,ejs,css,scss,less,shell,batch,c,cpp,go,ruby,php,kotlin,swift,objective-c,r,rust,dart,scala,haskell,perl,elixir,vue,jsx,tsx)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lonely-wolf-howl&theme=tokyonight&langs_count=3&hide=html,ejs,css)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
