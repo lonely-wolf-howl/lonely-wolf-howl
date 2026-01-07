@@ -26,8 +26,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lonely-wolf-howl&show_icons=true&theme=tokyonight)
 -->
 
+<!--
 # languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lonely-wolf-howl&theme=tokyonight&langs_count=3&hide=html,ejs,css)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 </div>
 
